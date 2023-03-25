@@ -3,7 +3,7 @@ scipy
 pandas
 scikit-learn
 statsmodels
-tensorflow
+tensorflow-macos
 jupyter
 jupyterlab
 tensor-sensor
